@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project_5.dir/SkiLift.cpp.o CMakeFiles/Project_5.dir/ChairLift.cpp.o CMakeFiles/Project_5.dir/LiftOperator.cpp.o CMakeFiles/Project_5.dir/Gondola.cpp.o CMakeFiles/Project_5.dir/Skier.cpp.o CMakeFiles/Project_5.dir/main.cpp.o  -o Project_5 

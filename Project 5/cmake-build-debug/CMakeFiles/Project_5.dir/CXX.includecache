@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/Desktop/CS 120/Project 5/ChairLift.cpp
+ChairLift.h
+/Users/max/Desktop/CS 120/Project 5/ChairLift.h
+
+/Users/max/Desktop/CS 120/Project 5/ChairLift.h
+string
+-
+iostream
+-
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+
+/Users/max/Desktop/CS 120/Project 5/Gondola.cpp
+Gondola.h
+/Users/max/Desktop/CS 120/Project 5/Gondola.h
+
+/Users/max/Desktop/CS 120/Project 5/Gondola.h
+string
+-
+iostream
+-
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+
+/Users/max/Desktop/CS 120/Project 5/LiftOperator.cpp
+LiftOperator.h
+/Users/max/Desktop/CS 120/Project 5/LiftOperator.h
+
+/Users/max/Desktop/CS 120/Project 5/LiftOperator.h
+string
+-
+iostream
+-
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+
+/Users/max/Desktop/CS 120/Project 5/SkiLift.cpp
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+string
+-
+iostream
+-
+vector
+-
+LiftOperator.h
+/Users/max/Desktop/CS 120/Project 5/LiftOperator.h
+
+/Users/max/Desktop/CS 120/Project 5/Skier.cpp
+Skier.h
+/Users/max/Desktop/CS 120/Project 5/Skier.h
+
+/Users/max/Desktop/CS 120/Project 5/Skier.h
+string
+-
+iostream
+-
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+
+/Users/max/Desktop/CS 120/Project 5/main.cpp
+iostream
+-
+vector
+-
+SkiLift.h
+/Users/max/Desktop/CS 120/Project 5/SkiLift.h
+ChairLift.h
+/Users/max/Desktop/CS 120/Project 5/ChairLift.h
+Gondola.h
+/Users/max/Desktop/CS 120/Project 5/Gondola.h
+LiftOperator.h
+/Users/max/Desktop/CS 120/Project 5/LiftOperator.h
+Skier.h
+/Users/max/Desktop/CS 120/Project 5/Skier.h
+
