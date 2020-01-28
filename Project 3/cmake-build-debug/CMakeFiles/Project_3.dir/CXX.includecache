@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/Desktop/CS 120/Project 3/City.cpp
+City.h
+/Users/max/Desktop/CS 120/Project 3/City.h
+
+/Users/max/Desktop/CS 120/Project 3/City.h
+iomanip
+-
+fstream
+-
+vector
+-
+iostream
+-
+
+/Users/max/Desktop/CS 120/Project 3/Country.cpp
+Country.h
+/Users/max/Desktop/CS 120/Project 3/Country.h
+
+/Users/max/Desktop/CS 120/Project 3/Country.h
+City.h
+/Users/max/Desktop/CS 120/Project 3/City.h
+
+/Users/max/Desktop/CS 120/Project 3/main.cpp
+Country.h
+/Users/max/Desktop/CS 120/Project 3/Country.h
+
