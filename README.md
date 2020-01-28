@@ -1,5 +1,5 @@
 # CS120-Advanced-Programming
-C++ class at The University of Vermont 
+C++ course at The University of Vermont 
 
 * **Project 1:** Demonstrate File I/O, user input, and output manipulation
 * **Project 2:** Design, implement, test, and use a C++ class with overloaded operators
