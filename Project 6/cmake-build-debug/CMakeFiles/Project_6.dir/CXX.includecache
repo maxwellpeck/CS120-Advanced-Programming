@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/Desktop/CS 120/Project 6/PunchBug.cpp
+PunchBug.h
+/Users/max/Desktop/CS 120/Project 6/PunchBug.h
+
+/Users/max/Desktop/CS 120/Project 6/PunchBug.h
+iostream
+-
+Vehicle.h
+/Users/max/Desktop/CS 120/Project 6/Vehicle.h
+
+/Users/max/Desktop/CS 120/Project 6/Truck.cpp
+Truck.h
+/Users/max/Desktop/CS 120/Project 6/Truck.h
+
+/Users/max/Desktop/CS 120/Project 6/Truck.h
+iostream
+-
+Vehicle.h
+/Users/max/Desktop/CS 120/Project 6/Vehicle.h
+
+/Users/max/Desktop/CS 120/Project 6/Vehicle.cpp
+Vehicle.h
+/Users/max/Desktop/CS 120/Project 6/Vehicle.h
+
+/Users/max/Desktop/CS 120/Project 6/Vehicle.h
+string
+-
+
+/Users/max/Desktop/CS 120/Project 6/main.cpp
+iostream
+-
+vector
+-
+Vehicle.h
+/Users/max/Desktop/CS 120/Project 6/Vehicle.h
+PunchBug.h
+/Users/max/Desktop/CS 120/Project 6/PunchBug.h
+Truck.h
+/Users/max/Desktop/CS 120/Project 6/Truck.h
+
